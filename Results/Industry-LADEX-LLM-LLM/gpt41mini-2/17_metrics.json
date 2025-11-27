@@ -1,0 +1,36 @@
+{
+    "id": "17.htm",
+    "passed_score": 15,
+    "describe_table_calls": [
+        {
+            "duration": 0.5370759963989258,
+            "tokens": "CompletionUsage(completion_tokens=2, prompt_tokens=197, total_tokens=199, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=0, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+        },
+        {
+            "duration": 0.570490837097168,
+            "tokens": "CompletionUsage(completion_tokens=2, prompt_tokens=139, total_tokens=141, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=0, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+        },
+        {
+            "duration": 0.5022239685058594,
+            "tokens": "CompletionUsage(completion_tokens=2, prompt_tokens=155, total_tokens=157, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=0, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+        }
+    ],
+    "total_duration": 15.760787010192871,
+    "processed_procedures": [
+        {
+            "generate_calls": [
+                {
+                    "duration": 9.350269794464111,
+                    "tokens": "CompletionUsage(completion_tokens=1109, prompt_tokens=1849, total_tokens=2958, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=0, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                }
+            ],
+            "score_calls": [
+                {
+                    "duration": 4.75391411781311,
+                    "tokens": "CompletionUsage(completion_tokens=610, prompt_tokens=2805, total_tokens=3415, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=0, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                }
+            ],
+            "improve_calls": []
+        }
+    ]
+}

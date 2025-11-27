@@ -1,0 +1,12 @@
+Metric,Threshold,Model,Public-LADEX-LLM-LLM,,,,,Average,Std Dev
+,,,run1,run2,run3,run4,run5,,
+
+METHOD: ,,,,,,,,,
+Completeness,no,O4Mini,92.45,93.75,95.08,94.72,94.32,94.06,1.03
+Correctness,no,O4Mini,84.79,84.53,85.61,86.48,84.34,85.15,0.89
+Completeness,no,gpt41mini,77.89,76.96,74.92,74.98,72.26,75.4,2.17
+Correctness,no,gpt41mini,66.64,68.64,66.18,65.74,64.47,66.33,1.52
+Completeness,no,local,74.86,71.65,70.66,73.63,72.04,72.57,1.67
+Correctness,no,local,74.14,68.18,65.57,71.47,68.43,69.56,3.31
+
+METHOD: structural_constraints,,,,,,,,,

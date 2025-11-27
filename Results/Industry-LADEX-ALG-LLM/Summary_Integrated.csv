@@ -1,0 +1,10 @@
+Metric,Threshold,Model,Industry-LADEX-ALG-LLM,,,,,Average,Std Dev
+,,,run1,run2,run3,run4,run5,,
+
+METHOD: ,,,,,,,,,
+Completeness,no,O4Mini,82.95,80.04,86.50,83.71,79.59,82.56,2.84
+Correctness,no,O4Mini,81.47,87.26,88.86,81.22,93.26,86.41,5.12
+Completeness,no,gpt41mini,69.33,68.88,67.61,70.24,67.35,68.68,1.21
+Correctness,no,gpt41mini,73.47,75.39,76.95,81.78,74.27,76.37,3.29
+
+METHOD: structural_constraints,,,,,,,,,

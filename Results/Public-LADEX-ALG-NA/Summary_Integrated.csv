@@ -1,0 +1,12 @@
+Metric,Threshold,Model,Public-LADEX-ALG-NA,,,,,Average,Std Dev
+,,,run1,run2,run3,run4,run5,,
+
+METHOD: ,,,,,,,,,
+Completeness,no,O4Mini,93.95,94.50,94.29,94.83,95.00,94.51,0.42
+Correctness,no,O4Mini,84.19,84.64,86.24,84.03,84.95,84.81,0.88
+Completeness,no,gpt41mini,91.78,92.60,91.69,92.22,92.28,92.11,0.38
+Correctness,no,gpt41mini,79.20,80.80,78.95,80.84,79.91,79.94,0.88
+Completeness,no,local,90.07,88.79,88.63,89.27,89.26,89.2,0.56
+Correctness,no,local,87.11,86.38,83.98,85.85,85.19,85.7,1.19
+
+METHOD: structural_constraints,,,,,,,,,

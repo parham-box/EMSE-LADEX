@@ -1,0 +1,52 @@
+{
+    "id": "5.txt",
+    "passed_score": 15,
+    "describe_table_calls": [],
+    "total_duration": 1360.775607585907,
+    "processed_procedures": [
+        {
+            "generate_calls": [
+                {
+                    "duration": 105.84163784980774,
+                    "tokens": "CompletionUsage(completion_tokens=970, prompt_tokens=973, total_tokens=1943, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=864, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                },
+                {
+                    "duration": 91.09019660949707,
+                    "tokens": "CompletionUsage(completion_tokens=820, prompt_tokens=973, total_tokens=1793, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=466, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                }
+            ],
+            "score_calls": [
+                {
+                    "duration": 63.190107107162476,
+                    "tokens": "CompletionUsage(completion_tokens=642, prompt_tokens=910, total_tokens=1552, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=470, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                },
+                {
+                    "duration": 115.3084352016449,
+                    "tokens": "CompletionUsage(completion_tokens=1025, prompt_tokens=1044, total_tokens=2069, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=899, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                },
+                {
+                    "duration": 64.08971786499023,
+                    "tokens": "CompletionUsage(completion_tokens=638, prompt_tokens=1154, total_tokens=1792, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=440, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                },
+                {
+                    "duration": 77.03830051422119,
+                    "tokens": "CompletionUsage(completion_tokens=718, prompt_tokens=1155, total_tokens=1873, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=683, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                }
+            ],
+            "improve_calls": [
+                {
+                    "duration": 111.56981372833252,
+                    "tokens": "CompletionUsage(completion_tokens=1046, prompt_tokens=1404, total_tokens=2450, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=806, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                },
+                {
+                    "duration": 473.86293268203735,
+                    "tokens": "CompletionUsage(completion_tokens=4158, prompt_tokens=1748, total_tokens=5906, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=3783, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                },
+                {
+                    "duration": 258.75322794914246,
+                    "tokens": "CompletionUsage(completion_tokens=2290, prompt_tokens=1917, total_tokens=4207, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=1939, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                }
+            ]
+        }
+    ]
+}

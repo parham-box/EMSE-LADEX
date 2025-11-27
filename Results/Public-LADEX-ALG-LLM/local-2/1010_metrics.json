@@ -1,0 +1,52 @@
+{
+    "id": "1010.txt",
+    "passed_score": 15,
+    "describe_table_calls": [],
+    "total_duration": 2121.5655529499054,
+    "processed_procedures": [
+        {
+            "generate_calls": [
+                {
+                    "duration": 797.7212796211243,
+                    "tokens": "CompletionUsage(completion_tokens=8927, prompt_tokens=804, total_tokens=9731, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=8437, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                },
+                {
+                    "duration": 210.87786030769348,
+                    "tokens": "CompletionUsage(completion_tokens=2415, prompt_tokens=804, total_tokens=3219, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=2125, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                }
+            ],
+            "score_calls": [
+                {
+                    "duration": 64.66399359703064,
+                    "tokens": "CompletionUsage(completion_tokens=743, prompt_tokens=745, total_tokens=1488, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=591, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                },
+                {
+                    "duration": 65.4059636592865,
+                    "tokens": "CompletionUsage(completion_tokens=750, prompt_tokens=783, total_tokens=1533, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=601, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                },
+                {
+                    "duration": 45.54599189758301,
+                    "tokens": "CompletionUsage(completion_tokens=517, prompt_tokens=776, total_tokens=1293, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=372, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                },
+                {
+                    "duration": 71.37995481491089,
+                    "tokens": "CompletionUsage(completion_tokens=814, prompt_tokens=807, total_tokens=1621, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=599, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                }
+            ],
+            "improve_calls": [
+                {
+                    "duration": 74.3623297214508,
+                    "tokens": "CompletionUsage(completion_tokens=831, prompt_tokens=1308, total_tokens=2139, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=620, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                },
+                {
+                    "duration": 462.3698513507843,
+                    "tokens": "CompletionUsage(completion_tokens=5159, prompt_tokens=1400, total_tokens=6559, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=4883, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                },
+                {
+                    "duration": 329.21865463256836,
+                    "tokens": "CompletionUsage(completion_tokens=3687, prompt_tokens=1277, total_tokens=4964, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=3291, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                }
+            ]
+        }
+    ]
+}

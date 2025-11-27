@@ -1,0 +1,17 @@
+Method,Metric,Models Combined,Test,p_value,A12,file,p_value_BH
+LLM_Matcher,Correctness,"O4Mini, gpt41mini, local",Wilcoxon (paired),0.00012207,0.768888889,LLM_Matcher_Correctness_Stats_Public-LADEX-LLM-NA_vs_Public-Baseline.csv,0.000325521
+LLM_Matcher,Completeness,"O4Mini, gpt41mini, local",Wilcoxon (paired),0.000610352,0.682222222,LLM_Matcher_Completeness_Stats_Public-LADEX-LLM-LLM_vs_Public-Baseline.csv,0.001220703
+LLM_Matcher,Completeness,"O4Mini, gpt41mini, local",Wilcoxon (paired),0.431640625,0.54,LLM_Matcher_Completeness_Stats_Industry-LADEX-LLM-LLM_vs_Industry-Baseline.csv,0.493303571
+LLM_Matcher,Completeness,"O4Mini, gpt41mini, local",Wilcoxon (paired),6.10E-05,0.751111111,LLM_Matcher_Completeness_Stats_Public-LADEX-LLM-NA_vs_Public-Baseline.csv,0.000244141
+LLM_Matcher,Correctness,"O4Mini, gpt41mini, local",Wilcoxon (paired),0.845703125,0.54,LLM_Matcher_Correctness_Stats_Industry-LADEX-LLM-NA_vs_Industry-Baseline.csv,0.845703125
+LLM_Matcher,Correctness,"O4Mini, gpt41mini, local",Wilcoxon (paired),0.4921875,0.5,LLM_Matcher_Correctness_Stats_Industry-LADEX-LLM-LLM_vs_Industry-Baseline.csv,0.5625
+LLM_Matcher,Completeness,"O4Mini, gpt41mini, local",Wilcoxon (paired),0.625,0.57,LLM_Matcher_Completeness_Stats_Industry-LADEX-LLM-NA_vs_Industry-Baseline.csv,0.625
+LLM_Matcher,Completeness,"O4Mini, gpt41mini, local",Wilcoxon (paired),0.00012207,0.906666667,LLM_Matcher_Completeness_Stats_Public-LADEX-ALG-LLM_vs_Public-Baseline.csv,0.000325521
+LLM_Matcher,Completeness,"O4Mini, gpt41mini, local",Wilcoxon (paired),6.10E-05,0.897777778,LLM_Matcher_Completeness_Stats_Public-LADEX-ALG-NA_vs_Public-Baseline.csv,0.000244141
+LLM_Matcher,Completeness,"O4Mini, gpt41mini, local",Wilcoxon (paired),0.001953125,0.97,LLM_Matcher_Completeness_Stats_Industry-LADEX-ALG-LLM_vs_Industry-Baseline.csv,0.002604167
+LLM_Matcher,Correctness,"O4Mini, gpt41mini, local",Wilcoxon (paired),0.004272461,0.662222222,LLM_Matcher_Correctness_Stats_Public-LADEX-LLM-LLM_vs_Public-Baseline.csv,0.005696615
+LLM_Matcher,Correctness,"O4Mini, gpt41mini, local",Wilcoxon (paired),0.001953125,0.82,LLM_Matcher_Correctness_Stats_Industry-LADEX-ALG-LLM_vs_Industry-Baseline.csv,0.003125
+LLM_Matcher,Correctness,"O4Mini, gpt41mini, local",Wilcoxon (paired),6.10E-05,0.884444444,LLM_Matcher_Correctness_Stats_Public-LADEX-ALG-NA_vs_Public-Baseline.csv,0.000244141
+LLM_Matcher,Correctness,"O4Mini, gpt41mini, local",Wilcoxon (paired),0.001953125,0.86,LLM_Matcher_Correctness_Stats_Industry-LADEX-ALG-NA_vs_Industry-Baseline.csv,0.003125
+LLM_Matcher,Correctness,"O4Mini, gpt41mini, local",Wilcoxon (paired),6.10E-05,0.888888889,LLM_Matcher_Correctness_Stats_Public-LADEX-ALG-LLM_vs_Public-Baseline.csv,0.000244141
+LLM_Matcher,Completeness,"O4Mini, gpt41mini, local",Wilcoxon (paired),0.001953125,0.97,LLM_Matcher_Completeness_Stats_Industry-LADEX-ALG-NA_vs_Industry-Baseline.csv,0.002604167

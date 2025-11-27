@@ -1,0 +1,52 @@
+{
+    "id": "322.txt",
+    "passed_score": 15,
+    "describe_table_calls": [],
+    "total_duration": 1109.8146922588348,
+    "processed_procedures": [
+        {
+            "generate_calls": [
+                {
+                    "duration": 333.37489557266235,
+                    "tokens": "CompletionUsage(completion_tokens=3759, prompt_tokens=972, total_tokens=4731, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=3128, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                },
+                {
+                    "duration": 85.13271117210388,
+                    "tokens": "CompletionUsage(completion_tokens=970, prompt_tokens=972, total_tokens=1942, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=622, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                }
+            ],
+            "score_calls": [
+                {
+                    "duration": 75.92513012886047,
+                    "tokens": "CompletionUsage(completion_tokens=864, prompt_tokens=915, total_tokens=1779, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=680, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                },
+                {
+                    "duration": 99.8912045955658,
+                    "tokens": "CompletionUsage(completion_tokens=1126, prompt_tokens=1252, total_tokens=2378, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=1007, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                },
+                {
+                    "duration": 121.31648588180542,
+                    "tokens": "CompletionUsage(completion_tokens=1369, prompt_tokens=1252, total_tokens=2621, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=414, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                },
+                {
+                    "duration": 118.7895610332489,
+                    "tokens": "CompletionUsage(completion_tokens=1341, prompt_tokens=1250, total_tokens=2591, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=1302, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                }
+            ],
+            "improve_calls": [
+                {
+                    "duration": 59.99379229545593,
+                    "tokens": "CompletionUsage(completion_tokens=669, prompt_tokens=1214, total_tokens=1883, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=271, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                },
+                {
+                    "duration": 142.85495686531067,
+                    "tokens": "CompletionUsage(completion_tokens=1579, prompt_tokens=1822, total_tokens=3401, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=1200, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                },
+                {
+                    "duration": 72.53116822242737,
+                    "tokens": "CompletionUsage(completion_tokens=737, prompt_tokens=2997, total_tokens=3734, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=395, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                }
+            ]
+        }
+    ]
+}

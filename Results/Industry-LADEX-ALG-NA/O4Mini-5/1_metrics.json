@@ -1,0 +1,23 @@
+{
+    "id": "1.html",
+    "passed_score": 0,
+    "describe_table_calls": [
+        {
+            "duration": 2.2099099159240723,
+            "tokens": "CompletionUsage(completion_tokens=212, prompt_tokens=144, total_tokens=356, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=192, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+        }
+    ],
+    "total_duration": 38.29937291145325,
+    "processed_procedures": [
+        {
+            "generate_calls": [
+                {
+                    "duration": 35.88053297996521,
+                    "tokens": "CompletionUsage(completion_tokens=3826, prompt_tokens=1420, total_tokens=5246, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=3456, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                }
+            ],
+            "score_calls": [],
+            "improve_calls": []
+        }
+    ]
+}

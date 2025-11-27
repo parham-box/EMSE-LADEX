@@ -1,0 +1,32 @@
+{
+    "id": "822.txt",
+    "passed_score": 15,
+    "describe_table_calls": [],
+    "total_duration": 221.35494661331177,
+    "processed_procedures": [
+        {
+            "generate_calls": [
+                {
+                    "duration": 58.46021890640259,
+                    "tokens": "CompletionUsage(completion_tokens=668, prompt_tokens=806, total_tokens=1474, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=547, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                }
+            ],
+            "score_calls": [
+                {
+                    "duration": 36.353617668151855,
+                    "tokens": "CompletionUsage(completion_tokens=421, prompt_tokens=379, total_tokens=800, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=314, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                },
+                {
+                    "duration": 49.10529184341431,
+                    "tokens": "CompletionUsage(completion_tokens=572, prompt_tokens=379, total_tokens=951, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=162, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                }
+            ],
+            "improve_calls": [
+                {
+                    "duration": 77.43170738220215,
+                    "tokens": "CompletionUsage(completion_tokens=870, prompt_tokens=1202, total_tokens=2072, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=749, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                }
+            ]
+        }
+    ]
+}

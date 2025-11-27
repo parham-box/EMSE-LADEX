@@ -1,0 +1,40 @@
+{
+    "id": "551.txt",
+    "passed_score": 15,
+    "describe_table_calls": [],
+    "total_duration": 106.81355595588684,
+    "processed_procedures": [
+        {
+            "generate_calls": [
+                {
+                    "duration": 27.695260286331177,
+                    "tokens": "CompletionUsage(completion_tokens=4717, prompt_tokens=878, total_tokens=5595, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=4608, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                }
+            ],
+            "score_calls": [
+                {
+                    "duration": 23.920142889022827,
+                    "tokens": "CompletionUsage(completion_tokens=3999, prompt_tokens=892, total_tokens=4891, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=3520, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                },
+                {
+                    "duration": 12.1648530960083,
+                    "tokens": "CompletionUsage(completion_tokens=1946, prompt_tokens=889, total_tokens=2835, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=1664, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                },
+                {
+                    "duration": 18.294939756393433,
+                    "tokens": "CompletionUsage(completion_tokens=3234, prompt_tokens=890, total_tokens=4124, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=2880, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                }
+            ],
+            "improve_calls": [
+                {
+                    "duration": 10.988087892532349,
+                    "tokens": "CompletionUsage(completion_tokens=1770, prompt_tokens=1574, total_tokens=3344, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=1664, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                },
+                {
+                    "duration": 13.742865324020386,
+                    "tokens": "CompletionUsage(completion_tokens=2027, prompt_tokens=1460, total_tokens=3487, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=1920, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                }
+            ]
+        }
+    ]
+}

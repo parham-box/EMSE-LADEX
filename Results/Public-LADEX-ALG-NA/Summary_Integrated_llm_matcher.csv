@@ -1,0 +1,9 @@
+Metric,Model,Public-LADEX-ALG-NA run1,Public-LADEX-ALG-NA run2,Public-LADEX-ALG-NA run3,Public-LADEX-ALG-NA run4,Public-LADEX-ALG-NA run5,Average,Std Dev
+
+METHOD: LLM Matcher,,,,,,,,
+O4Mini-Completeness,O4Mini,97.56,97.34,97.39,97.31,97.59,97.44,0.13
+O4Mini-Correctness,O4Mini,87.34,85.41,85.72,86.31,84.66,85.89,1.01
+gpt41mini-Completeness,gpt41mini,97.23,97.11,97.30,97.59,97.64,97.37,0.23
+gpt41mini-Correctness,gpt41mini,81.81,82.49,83.34,82.46,83.11,82.64,0.6
+local-Completeness,local,95.01,95.48,95.22,94.32,94.62,94.93,0.46
+local-Correctness,local,88.18,86.27,87.11,86.27,85.56,86.68,1.0

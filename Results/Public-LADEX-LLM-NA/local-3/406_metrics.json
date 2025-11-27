@@ -1,0 +1,23 @@
+{
+    "id": "406.txt",
+    "passed_score": 15,
+    "describe_table_calls": [],
+    "total_duration": 145.06270051002502,
+    "processed_procedures": [
+        {
+            "generate_calls": [
+                {
+                    "duration": 78.77125811576843,
+                    "tokens": "CompletionUsage(completion_tokens=899, prompt_tokens=806, total_tokens=1705, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=770, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                }
+            ],
+            "score_calls": [
+                {
+                    "duration": 66.28960418701172,
+                    "tokens": "CompletionUsage(completion_tokens=770, prompt_tokens=379, total_tokens=1149, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=562, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                }
+            ],
+            "improve_calls": []
+        }
+    ]
+}

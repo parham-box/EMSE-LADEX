@@ -1,0 +1,23 @@
+{
+    "id": "111.txt",
+    "passed_score": 15,
+    "describe_table_calls": [],
+    "total_duration": 14.647706985473633,
+    "processed_procedures": [
+        {
+            "generate_calls": [
+                {
+                    "duration": 10.220266342163086,
+                    "tokens": "CompletionUsage(completion_tokens=1275, prompt_tokens=777, total_tokens=2052, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=1216, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                }
+            ],
+            "score_calls": [
+                {
+                    "duration": 4.420979022979736,
+                    "tokens": "CompletionUsage(completion_tokens=671, prompt_tokens=273, total_tokens=944, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=448, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                }
+            ],
+            "improve_calls": []
+        }
+    ]
+}

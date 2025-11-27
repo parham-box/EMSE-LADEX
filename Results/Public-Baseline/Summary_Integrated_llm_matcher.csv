@@ -1,0 +1,9 @@
+Metric,Model,Public-Baseline run1,Public-Baseline run2,Public-Baseline run3,Public-Baseline run4,Public-Baseline run5,Average,Std Dev
+
+METHOD: LLM Matcher,,,,,,,,
+O4Mini-Completeness,O4Mini,97.11,95.16,96.15,96.75,95.48,96.13,0.82
+O4Mini-Correctness,O4Mini,85.21,84.10,84.56,84.57,84.11,84.51,0.45
+gpt41mini-Completeness,gpt41mini,78.21,74.02,73.28,74.58,73.52,74.72,2.01
+gpt41mini-Correctness,gpt41mini,67.17,65.90,63.92,66.84,64.65,65.7,1.39
+local-Completeness,local,76.74,71.79,74.57,74.61,69.10,73.36,2.96
+local-Correctness,local,70.70,67.43,69.47,68.04,63.68,67.86,2.66

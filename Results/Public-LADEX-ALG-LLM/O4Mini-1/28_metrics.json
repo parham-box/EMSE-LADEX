@@ -1,0 +1,32 @@
+{
+    "id": "28.txt",
+    "passed_score": 15,
+    "describe_table_calls": [],
+    "total_duration": 216.56520414352417,
+    "processed_procedures": [
+        {
+            "generate_calls": [
+                {
+                    "duration": 60.96739888191223,
+                    "tokens": "CompletionUsage(completion_tokens=8331, prompt_tokens=937, total_tokens=9268, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=8000, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                }
+            ],
+            "score_calls": [
+                {
+                    "duration": 20.837512016296387,
+                    "tokens": "CompletionUsage(completion_tokens=3266, prompt_tokens=1086, total_tokens=4352, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=2816, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                },
+                {
+                    "duration": 59.20401310920715,
+                    "tokens": "CompletionUsage(completion_tokens=6969, prompt_tokens=1111, total_tokens=8080, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=6592, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                }
+            ],
+            "improve_calls": [
+                {
+                    "duration": 75.5393180847168,
+                    "tokens": "CompletionUsage(completion_tokens=8037, prompt_tokens=2046, total_tokens=10083, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=7680, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0))"
+                }
+            ]
+        }
+    ]
+}
