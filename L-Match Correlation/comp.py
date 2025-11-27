@@ -37,8 +37,8 @@ def compute_metrics(human_pairs, llm_pairs):
 def process_dataset(keyword):
     results_list = []
 
-    human_dir = f"LLM-calibration/Human-Matchings/{keyword}"
-    llm_dir = f"LLM-calibration/L-Match/{keyword}"
+    human_dir = f"./Human-Matchings/{keyword}"
+    llm_dir = f"./L-Match/{keyword}"
 
     files = sorted(
         [f for f in os.listdir(human_dir) if f.endswith(".json")],
@@ -108,7 +108,7 @@ final_df = pd.DataFrame([
     {"Dataset": "Paged", **paged_scores}
 ])
 
-final_df.to_csv("LLM-calibration/final_scores.csv", index=False)
+final_df.to_csv("./final_scores.csv", index=False)
 
 print("\nSaved final_scores.csv")
 print("\n--- Done ---")
